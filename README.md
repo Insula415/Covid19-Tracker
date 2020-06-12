@@ -11,7 +11,7 @@ This program took me around 10 seconds to run which is pretty slow, i tried inst
 $ pypy3 covid.py
 
 INSTALLATION = 
-$ git clone 
+$ git clone https://github.com/fred415/Covid19-Tracker.git
 $ python3 covid.py
 
 REQUIREMENTS = 

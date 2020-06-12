@@ -10,9 +10,9 @@ This program took me around 10 seconds to run which is pretty slow, i tried inst
 "numba" to speed up the process but it didn't work. if it is taking long to run i recommend using pypy.
 $ pypy3 covid.py
 
-INSTALLATION
+INSTALLATION = 
 $ git clone 
 $ python3 covid.py
 
-REQUIREMENTS
+REQUIREMENTS = 
 python3

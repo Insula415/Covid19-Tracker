@@ -132,6 +132,10 @@ def Canada():
     print("}--------{+}Canada{+}--------{")
     print(Canada)
 
+def All():
+    print("You can find all the countries on the website below :0")
+    print("https://www.worldometers.info/coronavirus/#countries")
+
 ################################################################################
 ###ALL WEBSITES
 a=requests.get('https://www.worldometers.info/coronavirus/')

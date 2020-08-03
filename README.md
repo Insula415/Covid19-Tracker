@@ -10,6 +10,6 @@ $ python3 covid.py
 REQUIREMENTS = 
 python3, BeautifulSoup
 
-<img src="eg.png">
+<img src="view.png">
 
 Credit: https://www.worldometers.info/coronavirus/#countries 

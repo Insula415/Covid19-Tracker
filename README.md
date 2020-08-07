@@ -8,7 +8,7 @@ $ git clone https://github.com/fred415/Covid19-Tracker.git
 $ python3 covid.py
 
 REQUIREMENTS = 
-python3, BeautifulSoup
+python3, BeautifulSoup, requests
 
 <img src="view.png">
 

@@ -13,4 +13,5 @@ python3, BeautifulSoup, requests
 <img src="view.png">
 
 Credit: https://www.worldometers.info/coronavirus/#countries 
+
 If you have any criticism feel free to email fredisheretohelp@protonmail.com, any would be much appreciated!

@@ -1,0 +1,17 @@
+GENERAL:
+To get average stats like cases and deaths use covid.py
+
+To get stats on different countries run main.py in the covid2 folder
+
+INSTALLATION:
+
+$ git clone https://github.com/Insula415/Covid19-Tracker.git
+
+$ pip3 install -r requirements.txt
+
+RUNNING:
+$ python3 covid.py 
+
+Alternatively use:
+$ cd covid2
+$ python3 main.py
